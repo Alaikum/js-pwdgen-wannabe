@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: black;
+}
+
+
+
+.container {
+    max-width: 60vw;
+    margin: 15% auto;
+    text-align: center;
+    padding: 2rem;
+    padding-top: 10rem;
+    color: cyan;
+    background-image: url(../img/01terminator2-800x445.webp);
+    background-size: 100%;
+    height: 445px;
+}
+
+span{
+    text-transform: uppercase;
+    color: rgb(9, 255, 0);
+}
+
+#password{
+    text-transform: uppercase;
+    color: yellowgreen;
+    font-weight: bold;
+    padding: 2rem;
+}
