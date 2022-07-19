@@ -32,7 +32,7 @@ colore_1.innerHTML= colorePreferito;
 
 
 
-const randomNumber=  (Math.random(1) *11)
+const randomNumber= Math.floor(Math.random() *100)
 
 const password= document.getElementById("password");
 
